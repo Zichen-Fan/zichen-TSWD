@@ -9,3 +9,5 @@ I hope to learn how to visualize complicated data and present to people in a cle
 
 # Portfolio
 I will display all of my data visualizations here!
+
+[assignment2](/dataviz2.md)
