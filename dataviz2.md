@@ -14,8 +14,11 @@ This plot indicate the distribution of general gorvernments' debt-to-GDP ratio d
 
 # Conclusion
 In this assignment, three plots have been constructed to illustrate the general government debt-to-GDP ratio. The advantages and disadvantages of these three plots are listed below.
-             | Advantages  |  Disadvantages
------------- | -------------
+
+|            | Advantages  |  Disadvantages
+------------ | -------------|-------|
 Bar chart |It focuses on the data of 2015 and presents them in ascending order.<br>People can clearly see which government has the largest ratio and select each bar to check detailed information.|It shows less information.
 Beeswarm plot |It shows all data from 1995 to 2018 without overlapping points.<br> The value of the ratio can be evaluated by the size of the circle point.|It contains too much information which seemed to be pretty messy.<br> It is a little difficult to find the value for particular government and particular year since the plot is too big.
-Box plot| It mainly presents the ratio level of each government.<br>It shows the ratio range of each government during these years.| It contains many redundant information and too many data label.
+Box plot| It shows the ratio range of each government during these years, which helps people understand the basic ratio level of each country. | It contains many redundant information like the complicated data labels.<br> It doesn't have a guide line for y-axis to match the value level.
+
+In conclusion, the bar chart is the clearest demonstration on the information of 2015 , while other two plots display all information in more complicated forms. Between them, beeswarm plot lists every data point while box plot shows the range more directly.
