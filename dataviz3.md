@@ -4,10 +4,10 @@ The data vsualization is selected from a report named "Houston-Area Freshwater W
 (Available at:https://cdn-ext.agnet.tamu.edu/wp-content/uploads/2019/04/ERPT-001-more-flooding-fewer-fish-freshwater-wetland-loss-in-the-houston-area-1992-2010-1.pdf).
 
 The data visualization is shown as followed.
-![database](https://github.com/Zichen-Fan/zichen-portfolio/blob/master/dataviz.png)
+![database](https://github.com/Zichen-Fan/zichen-portfolio/blob/master/dataviz.PNG)
 
 Its data source can also be found in the source as shown below.
-![data](https://github.com/Zichen-Fan/zichen-portfolio/blob/master/data.png)
+![data](https://github.com/Zichen-Fan/zichen-portfolio/blob/master/data.PNG)
 
 
 This data visualization displays the loss of the natural freshwater wetlands in Houston by each county. As we all known, Houston is suffering from serious flooding over decades, called flooding capital. The flooding is especially serious in Harris County. It is urgent to figure out the reasons and find the effective solutions. Many hints implicate the wetland loss is a main reason of Houston’s frequent flooding. The government, researchers and citizens are all want to get information about this issue. This chart displays the wetland loss of each county, giving people an intuitive impression. The information is valuable for researches on many fields while its design has some problems. Thus, I choose this chart to do the critique and recreating.
@@ -22,7 +22,7 @@ Besides, the chart uses shining labels and chooses 3D model, making it seems a l
 # Wireframe and test the solutions
 To improve the problems introduced in the former part, I came up with two solutions. One is to seperate the loss as acres and loss as percentage into two chart and put them together sharing one y-axis. The left part uses acres as unit while the right part uses percentage. In this way, readers can check information more conveniently. The other is to draw them in one chart sharing x-axis. Bars represent the loss as acres and lines display loss as percentage. Use same color in bar (line) and legends (labels) to show its category.
 
-![wireframe](https://github.com/Zichen-Fan/zichen-portfolio/blob/master/wireframe.jpg)
+![wireframe](https://github.com/Zichen-Fan/zichen-portfolio/blob/master/wireframe.JPG)
 
 After sharing my wireframe to my friends, I got feedback as follow.
 
@@ -37,7 +37,7 @@ They both chose the second chart and gave me suggestion like changing color, cre
 # Recreated data visualization
 After thinking of my friends suggestion, I changed the line to area to represent the loss as percantage. I used Tableau to recreate the data visualization as shown below.
 
-![recreate](https://github.com/Zichen-Fan/zichen-portfolio/blob/master/recreate.png)
+![recreate](https://github.com/Zichen-Fan/zichen-portfolio/blob/master/recreate.PNG)
 
 In the new edition, red and gray are used to show the urgent condition and make it looks better. Readers can check what the bar and area mean through the legend and axis titles clearly. The opacity of the bars is set as 80% to let readers see the area's condition. All of this design makes the visualization easier to be understand.
 
