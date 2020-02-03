@@ -18,7 +18,7 @@ However, it labels the accurate number of acres each county lost on the top of e
 Also, the legend says the total acres lost is 24600 acres, marking with blue square, which is the color of the bar. This will mislead readers to regard the height of the bar as the percentage of total loss of Houston. 
 Besides, the chart uses shining labels and chooses 3D model, making it seems a little messy. 
 
-# wireframe and test the solutions
+# Wireframe and test the solutions
 To improve the problems introduced in the former part, I came up with two solutions. One is to seperate the loss as acres and loss as percentage into two chart and put them together sharing one y-axis. The left part uses acres as unit while the right part uses percentage. In this way, readers can check information more conveniently. The other is to draw them in one chart sharing x-axis. Bars represent the loss as acres and lines display loss as percentage. Use same color in bar (line) and legends (labels) to show its category.
 
 ![wireframe](https://github.com/Zichen-Fan/zichen-portfolio/blob/master/wireframe.jpg)
@@ -31,13 +31,14 @@ Bo Pang:
 Lishan: 
 "I think this graph clearly display the difference of wetland loss in the absolute number(acres) and their relative size to the whole wetland. The use of the acres loss data and percentage loss data drawn on the same graph will help the reader get a comprehensive understanding of the situation：acres loss for the magnitude of the loss; percentage for the severity of damage to individual wetlands. However, the horizontal axis label is not very clear. I don't think abbreviations are a good idea as people don't really know about the names or whatever these labels are. If they are names, the line connecting each data in percentage does not make sense as it's not on a time scale."
 
-They both chose the second chart and gave me suggestion like changing color, creating a legend, not using abbreviations and not using a line to connect each data. I agree with their opinions. 
+They both chose the second chart and gave me suggestion like changing color, creating a legend, not using abbreviations and not using a line to connect each data. I agreed with their opinions. 
 
 # Recreated data visualization
 After thinking of my friends suggestion, I changed the line to area to represent the loss as percantage. I used Tableau to recreate the data visualization as shown below.
 
-![recreate]()
+![recreate](https://github.com/Zichen-Fan/zichen-portfolio/blob/master/recreate.png)
 
-In the new edition, red and gray are used to show the urgent condition. Readers can check what the bar and area mean through the legend and axis titles. 
+In the new edition, red and gray are used to show the urgent condition and make it looks better. Readers can check what the bar and area mean through the legend and axis titles clearly. The opacity of the bars is set as 80% to let readers see the area's condition. All of this design makes the visualization easier to be understand.
+
 
 
