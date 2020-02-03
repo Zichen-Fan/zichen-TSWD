@@ -36,7 +36,7 @@ They both chose the second chart and gave me suggestion like changing color, cre
 # Recreated data visualization
 After thinking of my friends suggestion, I changed the line to area to represent the loss as percantage. I used Tableau to recreate the data visualization as shown below.
 
-![recreate](https://github.com/Zichen-Fan/zichen-portfolio/blob/master/wetlandloss.png)
+![recreate]()
 
 In the new edition, red and gray are used to show the urgent condition. Readers can check what the bar and area mean through the legend and axis titles. 
 
