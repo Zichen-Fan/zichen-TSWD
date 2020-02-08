@@ -13,3 +13,5 @@ I will display all of my data visualizations here!
 [assignment2](/dataviz2.md)
 
 [assignment3](/dataviz3.md)
+
+[final_project](/final_project_zichen.md)
