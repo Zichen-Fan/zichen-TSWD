@@ -7,13 +7,13 @@ In my final project, I will introduction the information about Houston floods ev
 
 **Setup: Houston experiences several flood events almost every year due to three reasons.**
 
-Houston, as the flood capital, experiences multiple flood events almost every year and has been hit hard by major, destructive floods since its founding over 180 years ago.[1]
-There are three main reasons that account for the flooding formation in the Houston. The first one is the special geography situation in Houston. Houston is located along the Texas Gulf Coast with approximately 80 km coastline [2] Houston sits just under 50 feet above sea level and is among the flattest major metropolitan areas in the U.S, which makes the drainage system cannot drain away the water efficiently. [3] In addition, the adjoining prairie land drains into the city, which is prone to flooding. [4] Secondly, Houston has abundant rainfall all the year round, averaging about 1,260 mm annually based on records between 1981 and 2010. [3] The last one is human influence. Houston has experienced rapid population and urbanization growth without proper zoning regulations in recent years.[3] So that large-area hardened pavements have replaced the original permeable and moist natural surface, which has caused great changes in the hydrological process in urban areas. [5] Meanwhile, due to the climate change influence, the hot and humid lakes have shrunk in large areas, resulting in the decrease of natural water storage capacity and the increase of surface runoff. [5]
+Houston, as the flood capital, experiences multiple flood events almost every year and has been hit hard by major, destructive floods since its founding over 180 years ago.<sup>[1]</sup>
+There are three main reasons that account for the flooding formation in the Houston. The first one is the special geography situation in Houston. Houston is located along the Texas Gulf Coast with approximately 80 km coastline <sup>[2]</sup>. Houston sits just under 50 feet above sea level and is among the flattest major metropolitan areas in the U.S, which makes the drainage system cannot drain away the water efficiently.<sup>[3]</sup> Secondly, Houston has abundant rainfall all the year round, averaging about 1,260 mm annually based on records between 1981 and 2010. <sup>[4]</sup> The last one is human influence. Houston has experienced rapid population and urbanization growth without proper zoning regulations in recent years.<sup>[3]</sup> So that large-area hardened pavements have replaced the original permeable and moist natural surface, which has caused great changes in the hydrological process in urban areas. Meanwhile, A great number of wetland have been lost during current centray, causing water storage capacity has declined sharply. <sup>[5]</sup>
 
 **Conflict:  Many people think the flood events seriously affect the Houston in many aspects beyond remedy. However, the fact is not such serious as widely convinced.**
 
 It is fact that the flood events cause huge damage and death from 180 years ago. Many actions have been taken these years, but huge floods continuously hurt the city.
-For example, Allison, the costliest tropical storm in the history of the United States, had left Harris County, Texas, with 22 fatalities, 95,000 damaged automobiles and trucks, 73,000 damaged residences, 30,000 stranded residents in shelters, and over $5 billion in property damage in its wake. [6]
+For example, Allison, the costliest tropical storm in the history of the United States, had left Harris County, Texas, with 22 fatalities, 95,000 damaged automobiles and trucks, 73,000 damaged residences, 30,000 stranded residents in shelters, and over $5 billion in property damage in its wake. <sup>[6]</sup>
 However, things are not such bad.
 1. Large numbers of deaths due to flood are less frequent since the 1980s.
 2. For Harvey in particular, Houston’s economic base was left virtually unscathed by the flood.
@@ -21,7 +21,7 @@ However, things are not such bad.
 
 **Resolution: Many actions are undertaken.**
 
-Due to U.S. News, in 2017, the average federal flood relief payouts were about $3,000 per square mile, but for Houston, the payouts were nearly a whopping $500,000 per square mile.[7] Thus, there will be a huge budget available for the flood control scheme by taking the damage into consideration. Everything is going to be better.
+Due to U.S. News, in 2017, the average federal flood relief payouts were about $3,000 per square mile, but for Houston, the payouts were nearly a whopping $500,000 per square mile.<sup>[7]</sup> Thus, there will be a huge budget available for the flood control scheme by taking the damage into consideration. Everything is going to be better.
 
 **Story line**
 
