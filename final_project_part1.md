@@ -38,6 +38,9 @@ I will first introduce the fact that there are several flood events happen every
 
 ## Data
 
+For the number of flood events happen per year, I count the time for each year and input them to the excel. For the precipitation, I collect information from USClimateData for Houston and USA average. I plan to draw line chart to compare them. For evaluate the infrastructure, I find the ASCE report for Houston, which records the detailed grades for each aspect. For wetland loss, I scrap data from a report, which documents the wetland loss in Houston by county. For Historical damage and death, I find a timeline picture and plan to recreate the data visualization. For death trend and economy influence, I find data in two reports and redocument them. For final resolution, I get the number from US News. The list of database are listed following.
+
+
 1 Houston experiences multiple flood events almost every year.
 
 https://weather.com/storms/severe/news/2019-05-09-houston-americas-flood-capital
@@ -52,7 +55,9 @@ http://www.cnyweather.com/wxrainsummary.php
 
 https://ascehouston.org/images/downloads/Report_Card/asce_houston_report_card___full_report_rev.pdf
 
-4 The wetland loss in Houston; Houston-Area freshwater wetland loss 1992-2010;Texas Coastal Watershed Program 
+4 The wetland loss in Houston; Houston-Area freshwater wetland loss 1992-2010;Texas Coastal Watershed Program
+
+http://tcwp.tamu.edu/files/2015/06/WetlandLossFactSheet.pdf
 
 5 Historical damage and death
 
