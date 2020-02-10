@@ -37,6 +37,7 @@ I will first introduce the fact that there are several flood events happen every
 
 
 ## Data
+
 1. Houston experiences multiple flood events almost every year.
 
 https://weather.com/storms/severe/news/2019-05-09-houston-americas-flood-capital
@@ -71,7 +72,6 @@ http://www.houstontx.gov/budget/18budprop/FY2018_Proposed_Budget.pdf
 
 
 ## Method and medium
-
 I planned to do this project using **Shorthand**.
 
 I will put a joint picture of Houston flood events using the “Text Over Media” section.
