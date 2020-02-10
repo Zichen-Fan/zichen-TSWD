@@ -21,13 +21,13 @@ However, things are not such bad.
 
 **Resolution: Many actions are undertaken.**
 
-Due to U.S. News, in 2017, the average federal flood relief payouts were about $3,000 per square mile, but for Houston, the payouts were nearly a whopping $500,000 per square mile.<sup>[7]</sup> Thus, there will be a huge budget available for the flood control scheme by taking the damage into consideration. Everything is going to be better.
+Due to U.S. News, in 2017, the average federal flood relief payouts were about $3,000 per square mile, but for Houston, the payouts were nearly a whopping $500,000 per square mile.<sup>[7]</sup> Thus, there will be a huge budget available for the flood control scheme by taking the damage into consideration. As for what we can do to help Houston fight with its flood, I think we can pay more attention on giving suggestion and donate for people rebuilding their house.
 
 **Story line**
 
 ![storyline](storyline.jpg)
 
-I will first introduce the fact that there are several flood events happen every year in Houston. When the audience sees it, the mood will be calm. When three reasons are given including natural and artificial reasons, audience might feel a little sad since human activity has aggravated the flood. When coming to the conflict, detailed information about the historical damage and death caused by each huge flood event will be presented, the audience will feel very sad. Nevertheless, according to the statistical data, we can find that the deaths due to flood are less frequent these years and there are no evidence proves the flood affect Houston’s economy. At this point, the audience will feel delighted .At the end of the story, I will introduce that Houston’s flood relief payouts are much more than federal average payouts. And several methods of flooding mitigation will be given. The audience mood will be balanced.
+I will first introduce the fact that there are several flood events happen every year in Houston. When the audience sees it, the mood will be calm. When three reasons are given including natural and artificial reasons, audience might feel a little sad since human activity has aggravated the flood. When coming to the conflict, detailed information about the historical damage and death caused by each huge flood event will be presented, the audience will feel very sad. Nevertheless, according to the statistical data, we can find that the deaths due to flood are less frequent these years and there are no evidence proves the flood affect Houston’s economy. At this point, the audience will feel delighted .At the end of the story, I will introduce that Houston’s flood relief payouts are much more than federal average payouts. And several methods of flooding mitigation will be given. The audience mood will be balanced. In the end, I will give some link for audience who are interesting to this topic to learn more and donate for people who need to rebuild their house.
 
 ## Sketches
 
