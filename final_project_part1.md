@@ -38,35 +38,35 @@ I will first introduce the fact that there are several flood events happen every
 
 ## Data
 
-1. Houston experiences multiple flood events almost every year.
+1 Houston experiences multiple flood events almost every year.
 
 https://weather.com/storms/severe/news/2019-05-09-houston-americas-flood-capital
 
-2.The precipitation of Houston is much more than the average rainfall in U.S
+2 The precipitation of Houston is much more than the average rainfall in U.S
 
 https://www.usclimatedata.com/
 
 http://www.cnyweather.com/wxrainsummary.php
 
-3. ASCE grade
+3 ASCE grade
 
 https://ascehouston.org/images/downloads/Report_Card/asce_houston_report_card___full_report_rev.pdf
 
-4. The wetland loss in Houston; Houston-Area freshwater wetland loss 1992-2010;Texas Coastal Watershed Program 
+4 The wetland loss in Houston; Houston-Area freshwater wetland loss 1992-2010;Texas Coastal Watershed Program 
 
-5.Historical damage and death
+5 Historical damage and death
 
 https://www.hcfcd.org/About/Harris-Countys-Flooding-History
 
-6.Houston economy & 8-billion dollars floods
+6 Houston economy & 8-billion dollars floods
 
 https://www.bauer.uh.edu/centers/irf/houston-updates-feb18.php
 
-7. Deaths due to flood are less frequent
+7 Deaths due to flood are less frequent
 
 http://www.wxresearch.com/almanac/houflood.html
 
-8. Houston’s flood relief payouts are much more than federal average payouts
+8 Houston’s flood relief payouts are much more than federal average payouts
 
 http://www.houstontx.gov/budget/18budprop/FY2018_Proposed_Budget.pdf
 
