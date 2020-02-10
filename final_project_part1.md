@@ -43,37 +43,35 @@ For the number of flood events happen per year, I count the time for each year a
 
 1 Houston experiences multiple flood events almost every year.
 
-[This link](https://weather.com/storms/severe/news/2019-05-09-houston-americas-flood-capital)
+[https://weather.com/storms/severe/news/2019-05-09-houston-americas-flood-capital](https://weather.com/storms/severe/news/2019-05-09-houston-americas-flood-capital)
 
 2 The precipitation of Houston is much more than the average rainfall in U.S
 
-[This link](https://www.usclimatedata.com/)
+[https://www.usclimatedata.com/](https://www.usclimatedata.com/)
 
-[This link](http://www.cnyweather.com/wxrainsummary.php)
+[http://www.usaweather.com](http://www.cnyweather.com/wxrainsummary.php)
 
-3 ASCE grade
-
-[This link](https://ascehouston.org/images/downloads/Report_Card/asce_houston_report_card___full_report_rev.pdf)
+3 [ASCE grade](https://ascehouston.org/images/downloads/Report_Card/asce_houston_report_card___full_report_rev.pdf)
 
 4 The wetland loss in Houston; Houston-Area freshwater wetland loss 1992-2010;Texas Coastal Watershed Program
 
-[This link](http://tcwp.tamu.edu/files/2015/06/WetlandLossFactSheet.pdf)
+[https://www.usclimatedata.com/](http://tcwp.tamu.edu/files/2015/06/WetlandLossFactSheet.pdf)
 
 5 Historical damage and death
 
-[This link](https://www.hcfcd.org/About/Harris-Countys-Flooding-History)
+[https://www.hcfcd.org/About/Harris-Countys-Flooding-History](https://www.hcfcd.org/About/Harris-Countys-Flooding-History)
 
 6 Houston economy & 8-billion dollars floods
 
-[This link](https://www.bauer.uh.edu/centers/irf/houston-updates-feb18.php)
+[https://www.bauer.uh.edu/houston-updates-feb18.php](https://www.bauer.uh.edu/centers/irf/houston-updates-feb18.php)
 
 7 Deaths due to flood are less frequent
 
-[This link](http://www.wxresearch.com/almanac/houflood.html)
+[http://www.wxresearch.com/almanac/houflood.html](http://www.wxresearch.com/almanac/houflood.html)
 
 8 Houston’s flood relief payouts are much more than federal average payouts
 
-[This link](http://www.houstontx.gov/budget/18budprop/FY2018_Proposed_Budget.pdf)
+[http://www.houstontx.gov/budget/18budprop/FY2018_Proposed_Budget.pdf](http://www.houstontx.gov/budget/18budprop/FY2018_Proposed_Budget.pdf)
 
 
 ## Method and medium
@@ -88,20 +86,19 @@ Finally, I will use ‘Reveal’ again to compare the Houston’s flood relief p
 
 ## Reference:
 [1]Jonathan Erdman. (2019.9). Is Houston the Nation's Flood Capital? 
-Retrieved from: [This link](https://weather.com/storms/severe/news/2019-05-09-houston-americas-flood-capital)
+Retrieved from: [weather.com](https://weather.com/storms/severe/news/2019-05-09-houston-americas-flood-capital)
 
 [2] US Census Bureau facts Archived 2010-02-20 at the Wayback Machine
-Retrieved from: [This link](https://www.nbcnews.com/storyline/hurricane-harvey/why-does-houston-flood-so-often-so-heavily-n796446)
+Retrieved from: [nbnews.com](https://www.nbcnews.com/storyline/hurricane-harvey/why-does-houston-flood-so-often-so-heavily-n796446)
 
 [3] Schaper, David (August 31, 2017). "3 Reasons Houston Was A 'Sitting Duck' For Harvey Flooding". NPR. Archived from the original on March 27, 2018.
 
 [4] Baddour, Dylan (May 31, 2016). "The trouble with living in a swamp: Houston floods explained". Houston Chronicle. Archived from the original on August 29, 2017.
-Retrieved from: [This link](https://www.houstonchronicle.com/local/explainer/article/The-trouble-with-living-in-a-swamp-Houston-7954514.php)
+Retrieved from: [www.houstonchronicle.com](https://www.houstonchronicle.com/local/explainer/article/The-trouble-with-living-in-a-swamp-Houston-7954514.php)
 
 [5] He Wenhua. Study on effect of urbanization on storm flood and flood simulation at Jinan city [D]. Guangzhou: South China University of Technology, 2010. 
-Retrieved from: [This link](https://weather.com/storms/severe/news/2019-05-09-houston-americas-flood-capital)
 
-[6] [This link](https://www.hcfcd.org/About/Harris-Countys-Flooding-History)
+[6] [(https://www.hcfcd.org/About/Harris-Countys-Flooding-History](https://www.hcfcd.org/About/Harris-Countys-Flooding-History)
 
 [7] U.S.NEW (2017.8). 
-Retrieved from: [This link](https://www.nbcnews.com/storyline/hurricane-harvey/why-does-houston-flood-so-often-so-heavily-n796446)
+Retrieved from: [www.nbcnews.com](https://www.nbcnews.com/storyline/hurricane-harvey/why-does-houston-flood-so-often-so-heavily-n796446)
