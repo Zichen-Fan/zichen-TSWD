@@ -16,4 +16,6 @@ I will display all of my data visualizations here!
 
 [final_project_part1](/final_project_part1.md)
 
+[final_project_part1_new](/final_project_part1_new.md)
+
 [final_project_part2](/final_project_part2.md)
