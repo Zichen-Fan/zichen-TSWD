@@ -1,4 +1,4 @@
-# Final Project Part 1
+# Final Project Part 1_new
 
 ## Outline
 ## High-level summary: A huge number of animals are killed due to fur industry and actions are needed..
@@ -37,23 +37,24 @@ Dataviz: Among them, many EU Member States have already adopted legislation to p
 
 **Story line**
 
-![storyline](storyline.jpg)
+![storyline](storyline_new.png)
 
 I will first introduce the fact that fur fashion attracts many people. When the audience sees it, the mood will be calm. When they learn there are huge number of animals are brutal killed every year, audience might feel sad. When they see the pictures and data, they will feel these animals are so pitiful. When coming to the conflict, many anti-fur activities have happened while things haven’t come better in U.S.,  the audience will feel very sad. Nevertheless, according to the statistical data, we can find that the governments begin to notice these questions and they enact laws to protect the animals. At this point, the audience will feel delighted .At the end of the story, they will find that actions are still needed, and it takes on everyone. And donate method will be given. The audience mood will be balanced.
 
 
 ## Sketches
 
-![sketches](sketch.jpg)
+![sketches](sketch_new.png)
 
 Graphs mostly will be made using tableau and data wrapper.The examples are showed below.
-
+***
+<iframe title="Animals killed due to fur industry (million)" aria-label="Stacked Bars" id="datawrapper-chart-4nfws" src="//datawrapper.dwcdn.net/4nfws/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="237"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+***
 <iframe title="People's attitude towards fur products in U.S." aria-label="Stacked Bars" id="datawrapper-chart-yz7Af" src="//datawrapper.dwcdn.net/yz7Af/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="453"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
 ***
-
-
 
 ## Data
 
