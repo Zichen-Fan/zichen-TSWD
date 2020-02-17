@@ -2,6 +2,10 @@
 
 After talking with my several friends, I found my previous project about Houston Flood is not interesting at all. It is a huge complicated question and not comparable with my high-level summary. I couldn't illustrate the issue clearly using these data visualizations. Thus, I decide to change a topic and recreate the part-1. My new topic is about anti-fur products.
 
+There is my part1 recreate version.
+
+[final_project_part1_new](/final_project_part1_new.md)
+
 
 ## Storyboard
 
