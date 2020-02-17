@@ -37,14 +37,14 @@ Dataviz: Among them, many EU Member States have already adopted legislation to p
 
 **Story line**
 
-![storyline](storyline_new.png)
+![storyline](storyline_new.jpg)
 
 I will first introduce the fact that fur fashion attracts many people. When the audience sees it, the mood will be calm. When they learn there are huge number of animals are brutal killed every year, audience might feel sad. When they see the pictures and data, they will feel these animals are so pitiful. When coming to the conflict, many anti-fur activities have happened while things haven’t come better in U.S.,  the audience will feel very sad. Nevertheless, according to the statistical data, we can find that the governments begin to notice these questions and they enact laws to protect the animals. At this point, the audience will feel delighted .At the end of the story, they will find that actions are still needed, and it takes on everyone. And donate method will be given. The audience mood will be balanced.
 
 
 ## Sketches
 
-![sketches](sketch_new.png)
+![sketches](sketch_new.jpg)
 
 Graphs mostly will be made using tableau and data wrapper.The examples are showed below.
 ***
