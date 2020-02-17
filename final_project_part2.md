@@ -1,5 +1,8 @@
 # Final Project Part 2
 
+After talking with my several friends, I found my previous project about Houston Flood is not interesting at all. It is a huge complicated question and not comparable with my high-level summary. I couldn't illustrate the issue clearly using these data visualizations. Thus, I decide to change a topic and recreate the part-1. My new topic is about anti-fur products.
+
+
 ## Storyboard
 
 ![1](1.png)
@@ -138,17 +141,15 @@ I summarized the feedback of the survey.
 ***
 ![2](1_2.png)
 ***
-![1](1_3.png)
+![1](2_1.png)
 ***
-![1](1_4.png)
+![1](2_2.png)
 ***
 ![1](1_5.png)
 ***
 ![1](1_6.png)
 ***
 ![1](1_7.png)
-***
-![1](1_8.png)
 ***
 ![1](1_9.png)
 ***
