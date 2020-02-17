@@ -47,10 +47,13 @@ I will first introduce the fact that fur fashion attracts many people. When the 
 ![sketches](sketch_new.jpg)
 
 Graphs mostly will be made using tableau and data wrapper.The examples are showed below.
+
 ***
 <iframe title="Animals killed due to fur industry (million)" aria-label="Stacked Bars" id="datawrapper-chart-4nfws" src="//datawrapper.dwcdn.net/4nfws/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="237"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
+
 ***
+
 <iframe title="People's attitude towards fur products in U.S." aria-label="Stacked Bars" id="datawrapper-chart-yz7Af" src="//datawrapper.dwcdn.net/yz7Af/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="453"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
