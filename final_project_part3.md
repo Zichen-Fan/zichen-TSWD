@@ -59,7 +59,7 @@ Dataviz7: Among them, many EU Member States have already adopted legislation to 
 
 [https://www.furfreealliance.com/wp-content/uploads/2019/06/Facts-on-fur-farming-legislation.pdf)
 
-All data used in this project are summerized in this file.(click [here](https://drive.google.com/file/d/1gHXY1NlPDEMdsHKhrQfYpvp11Qwqg6PR/view?usp=sharing) to get the data.)
+**All data used in this project are summerized in this file.(click [here](https://drive.google.com/file/d/1gHXY1NlPDEMdsHKhrQfYpvp11Qwqg6PR/view?usp=sharing) to get the data.)**
 ***
 
 ### Method and medium
@@ -212,10 +212,12 @@ My intended audience is everyone. At first, I intend to let people protect anima
 So far, I could feel that as my understanding of how to tell an entire story deepens and my project was improved a lot.  At first, I only had a general idea of what topic I want to tell.  After drawing the outline, I defined the setup, conflict and resolution to get a clear logic of the story.  Making sketches helped me think how to visualize the data pointing to my topic. According to the sketches, I created several dataviz and put them into the first storyboard. I generated a user research protocol before I conducted user research interview. I got really useful feedback from the interviewees. I found lots of problems which I couldn’t find by myself.  Since I was very familiar with my topic and the data, I could easily grasp the mean of the dataviz. My friends who were strange with my project were able to point out which dataviz was confused and where had some logic problems.  I recreated these dataviz and added many transit between the dataviz to make the story more smooth.  Also, I put some poor animals images into my storyboard directly at first, the nice grader advised me to add a warning before showing the scared images. All of them helped me improve my project.
 ***
 ### Final project link
-Click [here](https://preview.shorthand.com/qDy0zUN0zhOqRmwj) to view my final project.
+
+Click [here](https://carnegiemellon.shorthandstories.com/zichen-say-no-to-fur/index.html) to view my final project.
 ***
 ### Reference
 Data Source:
+
 [1] “FICA Facts”, Fur information council of America. [Online].Available: https://www.fur.org/fica-facts/.[Accessed: 15-Feb-2020].
 
 [2] “The Fur Trade”, Human Society Internatinal. [Online].Available:https://www.hsi.org/news-media/fur-trade/. [Accessed: 15-Feb-2020].
