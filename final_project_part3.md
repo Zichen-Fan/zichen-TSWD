@@ -91,11 +91,14 @@ Finally, I will appeal to audience for stopping buying fur products.  I will als
 ![1](8.png)
 ***
 ![1](9.png)
+***
 
 ### User research protocol and findings
+
 **Target Audience**: Everyone can be the audience of my story, especially people who like fur products. Those who want to buy a fur coat will be reminded by my story to buy a faux-fur coat.
 
 **Questions**
+
 Are those pictures appropriate? (Evaluate the engagement of the story.)
 
 Do you feel useful of the visualization? (Evaluate the usefulness and completeness of the visualization.)
@@ -109,20 +112,21 @@ Do you think visualizations are beautiful and appealing? (Evaluate the aesthetic
 Do you feel comfortable about the logic of the story? (Evaluate the logic of story. )
 
 **Participants**
-People in three groups: • Teenagers under 18 years old.• People aged between 18-30, including who catch fashion well and like fur products.• Middle-aged people.
+
+People in three groups: Teenagers under 18 years old; People aged between 18-30, including who catch fashion well and like fur products; Middle-aged people.
 
 **Methods** : a 10 mins interview in person.
 
-**Script**
+**Script**:
 
 I will begin with a brief introduction: “Hello, my name is Zichen Fan, a graduate student in Carnegie Mellon University. Could you help me do a survey in 10 min?” If get the positive answer, I will continue with “I want to get feedback from the audience to improve my project. Please feel free to express any of your opinions :)”. Then, I will guess the age of my interviewer and ask “Are you interested in fashion?” “Do you like fur products?” to distinguish the audience group. After that, I will ask my main questions. Finally, the interview will ends in “Do you have any other questions about the webpage?” and “Thank you so much for your time and patience! ”.
-
+***
 **Findings**
 I completed three interviews with my friends and relatives. One of them is a cool girl who likes wearing brushy coats. One of them is my aunt who like buying clothes. One of them is my cousin who is in high school and doesn’t care about fashion and animals.
 
 I summarized the feedback of the survey.
 
-Positive:
+**Positive:**
 • They can grasp the topic.
 
 • Most of the visualizations were clear.
@@ -135,7 +139,8 @@ Positive:
 
 • People all think it is wrong to consume fur products. They thought faux fur is warm enough and same fire as the real fur.
 
-Negative:
+**Negative:**
+
 • Some of the data visualizations are too small.
 
 • The words in some page are too much to read.
@@ -152,7 +157,8 @@ Negative:
 
 • They want the method to help the animals.
 
-Changes
+**Changes:**
+
 • Change the size of data visualizations in scroll parts.
 
 • Delete some text.
@@ -205,5 +211,31 @@ My intended audience is everyone. At first, I intend to let people protect anima
 
 So far, I could feel that as my understanding of how to tell an entire story deepens and my project was improved a lot.  At first, I only had a general idea of what topic I want to tell.  After drawing the outline, I defined the setup, conflict and resolution to get a clear logic of the story.  Making sketches helped me think how to visualize the data pointing to my topic. According to the sketches, I created several dataviz and put them into the first storyboard. I generated a user research protocol before I conducted user research interview. I got really useful feedback from the interviewees. I found lots of problems which I couldn’t find by myself.  Since I was very familiar with my topic and the data, I could easily grasp the mean of the dataviz. My friends who were strange with my project were able to point out which dataviz was confused and where had some logic problems.  I recreated these dataviz and added many transit between the dataviz to make the story more smooth.  Also, I put some poor animals images into my storyboard directly at first, the nice grader advised me to add a warning before showing the scared images. All of them helped me improve my project.
 ***
+### Final project link
+Click [here](https://preview.shorthand.com/qDy0zUN0zhOqRmwj) to view my final project.
+***
 ### Reference
+Data Source:
+[1] “FICA Facts”, Fur information council of America. [Online].Available: https://www.fur.org/fica-facts/.[Accessed: 15-Feb-2020].
+
+[2] “The Fur Trade”, Human Society Internatinal. [Online].Available:https://www.hsi.org/news-media/fur-trade/. [Accessed: 15-Feb-2020].
+
+[3] “International Fur Farm Statistics”, APFA. [Online].Available:https://thefurbearers.com/sites/default/files/downloads/FurFarmStatsJuly2014.pdf. [Accessed: 15-Feb-2020].
+
+[4] “U.S. Mink Production, 2004 – 2018”, Fur Commission USA. [Online].Available: https://furcommission.com/production-statistics/. [Accessed: 15-Feb-2020].
+
+[5] “Public Attitudes Toward Fur”, Human Research Council. [Online].Available: https://faunalytics.org/wp-content/uploads/2015/05/Fundamentals_Fur.pdf. [Accessed: 15-Feb-2020].
+
+[6] “Fur Production and Fur Laws”, Animal Legal&Historical Center. [Online].Available:https://www.animallaw.info/intro/fur-production-and-fur-laws. [Accessed: 15-Feb-2020].
+
+[7] “Fact on fur farming legislation”, Fur Free Alliance. [Online].Available:https://www.furfreealliance.com/wp-content/uploads/2019/06/Facts-on-fur-farming-legislation.pdf [Accessed: 15-Feb-2020].
+
+Image Source:
+
+[1]Photo by [Jonatan Pie](https://unsplash.com/photos/V__yW0wQCOs) on [Unsplash](https://unsplash.com/)
+
+[2]Image by [Oikeutta eläimille](https://oikeuttaelaimille.fi/jattinaalien-kasvatus-tarhoilla-jatkuu) from [thedodo](https://www.thedodo.com/in-the-wild/monster-fox-fur-farms)
+
+[3]Image from [kknews](https://kknews.cc/pet/eo2e2mr.html)
+
 
