@@ -240,4 +240,10 @@ Image Source:
 
 [3]Image from [kknews](https://kknews.cc/pet/eo2e2mr.html)
 
+## Related
 
+[final_project_part1](/final_project_part1_new.md)
+
+[final_project_part2](/final_project_part2.md)
+
+[final_story](https://carnegiemellon.shorthandstories.com/zichen-say-no-to-fur/index.html)
