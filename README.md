@@ -1,23 +1,24 @@
 # zichen-portfolio
-This is my public portfolio for the Telling Stories with Data class at CMU!
+This is my public portfolio for the [Telling Stories with Data](https://api.heinz.cmu.edu/courses_api/course_detail/94-870) class at CMU!
 
 # About me
-Hi! I am a student in the Telling Stories with Data course. I come from Beijing and major in Civil Environmental Engineering. I love all kinds of animals. I have a cat named Mimi. It is so smart that it is able to turn on the tap and drink water by itself. Besides, it can open the door and even open its favourite cans!  
+Hi! I am a student in the Telling Stories with Data course. I come from Beijing and major in Civil Environmental Engineering.
 
 # What I hope to learn
-I hope to learn how to visualize complicated data and present to people in a clear and insteresting way. With the development of the internet, people are exposed to increasingly large data in current era. What people need to do is analyze these data and filter the useful information from the large data pool. After getting the effective information, how to present them and express the idea behind the data become a crucial question. I always find myself couldn't express my core precepitation clearly when I hold a large amount of data. I might make messy powerpoints or draw overcomplicated graghs which are difficult to read. I want to improve my ability of mastering data through this course.
+I hope to learn how to visualize complicated data and present to people in a clear and insteresting way. With the development of the internet, people are exposed to increasingly large data in current era. 
+I’m expecting to improve my skills such as data visualization, extracting useful information from data, telling stories and etc. which will always be relevant and will never go out of fashion. Moreover, these skills, especially for telling stories and conveying ideas, are critical for my career goals and many aspects of life. Even though I should and will never stop learning, the skills I developed in this course will, hopefully, help me along my career and life.
 
 # Portfolio
 I will display all of my data visualizations here!
 
-[assignment2](/dataviz2.md)
+[OECD data visualization](/dataviz2.md)
 
-[assignment3](/dataviz3.md)
+[Critique by Design](/dataviz3.md)
 
-[final_project_part1](/final_project_part1.md)
+[final_project_part1: Project Proposal](/final_project_part1_new.md)
 
-[final_project_part1_new](/final_project_part1_new.md)
+[final_project_part2: Wireframes, Storyboards & User Research](/final_project_part2.md)
 
-[final_project_part2](/final_project_part2.md)
+[final_project_part3: Final Deliverables & Summary](/final_project_part3.md)
 
-[final_project_part3](/final_project_part3.md)
+Please click [here]() to find the final project link.
