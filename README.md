@@ -1,10 +1,12 @@
-# zichen-portfolio
+# Portfolio
 This is my public portfolio for the [Telling Stories with Data](https://api.heinz.cmu.edu/courses_api/course_detail/94-870) class at CMU!
 
 # About me
 Hi! I am a student in the Telling Stories with Data course. I come from Beijing and major in Civil Environmental Engineering. Come on and find the fun in data with me~
-![mimi](/mimi.JPG){:height="50%" width="50%"}
-
+![mimi][50%](/mimi.JPG)
+<div align="center">
+  my cat, called MIMI.
+</div>
 
 # What I hope to learn
 I hope to learn how to visualize complicated data and present to people in a clear and insteresting way. With the development of the internet, people are exposed to increasingly large data in current era. 
