@@ -3,7 +3,7 @@ This is my public portfolio for the [Telling Stories with Data](https://api.hein
 
 # About me
 Hi! I am a student in the Telling Stories with Data course. I come from Beijing and major in Civil Environmental Engineering. Come on and find the fun in data with me~
-
+![mimi](/mimi.JPG){:height="50%" width="50%"}
 
 
 # What I hope to learn
