@@ -3,15 +3,7 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#f5f5f5"
-      }
-    ]
-  },
-  {
-    "elementType": "labels.icon",
-    "stylers": [
-      {
-        "visibility": "off"
+        "color": "#1d2c4d"
       }
     ]
   },
@@ -19,7 +11,7 @@
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#616161"
+        "color": "#d5a397"
       }
     ]
   },
@@ -27,7 +19,7 @@
     "elementType": "labels.text.stroke",
     "stylers": [
       {
-        "color": "#f5f5f5"
+        "color": "#3a0c0c"
       }
     ]
   },
@@ -36,7 +28,7 @@
     "elementType": "geometry.stroke",
     "stylers": [
       {
-        "color": "#df723e"
+        "color": "#3a0c0c"
       }
     ]
   },
@@ -50,11 +42,38 @@
     ]
   },
   {
+    "featureType": "administrative.province",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#3a0c0c"
+      }
+    ]
+  },
+  {
+    "featureType": "landscape.man_made",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#df723e"
+      }
+    ]
+  },
+  {
+    "featureType": "landscape.natural",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#6f4163"
+      }
+    ]
+  },
+  {
     "featureType": "poi",
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#eeeeee"
+        "color": "#cfb3c6"
       }
     ]
   },
@@ -68,11 +87,20 @@
     ]
   },
   {
-    "featureType": "poi.park",
-    "elementType": "geometry",
+    "featureType": "poi",
+    "elementType": "labels.text.stroke",
     "stylers": [
       {
-        "color": "#e5e5e5"
+        "color": "#f8f2f2"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.park",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#023e58"
       }
     ]
   },
@@ -81,7 +109,7 @@
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#9e9e9e"
+        "color": "#3C7680"
       }
     ]
   },
@@ -90,16 +118,25 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#ffffff"
+        "color": "#b63421"
       }
     ]
   },
   {
-    "featureType": "road.arterial",
+    "featureType": "road",
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#757575"
+        "color": "#daa5be"
+      }
+    ]
+  },
+  {
+    "featureType": "road",
+    "elementType": "labels.text.stroke",
+    "stylers": [
+      {
+        "color": "#9e2c65"
       }
     ]
   },
@@ -108,7 +145,16 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#dadada"
+        "color": "#2c6675"
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#ce577f"
       }
     ]
   },
@@ -117,25 +163,43 @@
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#616161"
+        "color": "#edd5da"
       }
     ]
   },
   {
-    "featureType": "road.local",
+    "featureType": "road.highway",
+    "elementType": "labels.text.stroke",
+    "stylers": [
+      {
+        "color": "#873e58"
+      }
+    ]
+  },
+  {
+    "featureType": "transit",
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#9e9e9e"
+        "color": "#f8f2f2"
+      }
+    ]
+  },
+  {
+    "featureType": "transit",
+    "elementType": "labels.text.stroke",
+    "stylers": [
+      {
+        "color": "#832c4d"
       }
     ]
   },
   {
     "featureType": "transit.line",
-    "elementType": "geometry",
+    "elementType": "geometry.fill",
     "stylers": [
       {
-        "color": "#e5e5e5"
+        "color": "#f8f2f2"
       }
     ]
   },
@@ -144,7 +208,7 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#eeeeee"
+        "color": "#f8f2f2"
       }
     ]
   },
@@ -153,7 +217,7 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#c9c9c9"
+        "color": "#cdcddf"
       }
     ]
   },
@@ -162,7 +226,7 @@
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#9e9e9e"
+        "color": "#f8f2f2"
       }
     ]
   }
